@@ -18,6 +18,5 @@ public:
 protected:
     std::vector<std::shared_ptr<Car>> _carsOnTheLot;
     std::string _make;
-private:
 };
 #endif //UNTITLED1_INVENTORYOFCARS_H

@@ -14,8 +14,5 @@ public:
     virtual ~Car() = default;
     virtual  std::string getModel() = 0;
     virtual int getYear() = 0;
-
-private:
-
 };
 #endif //UNTITLED1_CAR_H
